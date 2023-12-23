@@ -1,0 +1,7 @@
+body {background-color: rgba(6, 45, 73, 0.949);}
+
+.box{
+    list-style: none;
+    width: calc((100% - 96px) / 7);
+    aspect-ratio: 1;   
+}
